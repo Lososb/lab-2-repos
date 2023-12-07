@@ -1,0 +1,15 @@
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\bin\Debug\net6.0\lab 2 branches.exe
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\bin\Debug\net6.0\lab 2 branches.deps.json
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\bin\Debug\net6.0\lab 2 branches.runtimeconfig.json
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\bin\Debug\net6.0\lab 2 branches.dll
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\bin\Debug\net6.0\lab 2 branches.pdb
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.csproj.AssemblyReference.cache
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.AssemblyInfoInputs.cache
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.AssemblyInfo.cs
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.csproj.CoreCompileInputs.cache
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.dll
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\refint\lab 2 branches.dll
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.pdb
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\lab 2 branches.genruntimeconfig.cache
+C:\Users\mugud\OneDrive\Рабочий стол\домашка\сурпо\repositories\lab 2\lab 2 branches\obj\Debug\net6.0\ref\lab 2 branches.dll
